@@ -1,0 +1,13 @@
+package accessmodifier;
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Warrior w1 = new Warrior("김진");
+		w1.hunt();
+		
+	}
+
+}
