@@ -1,7 +1,0 @@
-package superkeyword;
-
-public class test {
-
-	Airplane a1 =new Airplane(100);
-	a1.fly();
-}
