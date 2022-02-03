@@ -42,7 +42,7 @@ public class String03P399 {
 				System.out.println(get + "번 인덱스에서 " + 
 						count + "번째 " + searchVoca + "이(가) 검출되었습니다.");
 			}
-		cd
+		}
 		System.out.println(searchVoca + "의 총 출현 횟수는" + count + "회입니다.");
 	}
 }
